@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-battle/static/css/main.6c9fb07d.css",
+    "main.js": "/pokemon-battle/static/js/main.087164d5.js",
+    "index.html": "/pokemon-battle/index.html",
+    "main.6c9fb07d.css.map": "/pokemon-battle/static/css/main.6c9fb07d.css.map",
+    "main.087164d5.js.map": "/pokemon-battle/static/js/main.087164d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9fb07d.css",
+    "static/js/main.087164d5.js"
+  ]
+}

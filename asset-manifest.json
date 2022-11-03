@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Pokemon-battle/static/css/main.6c9fb07d.css",
+    "main.js": "/React-Pokemon-battle/static/js/main.087164d5.js",
+    "index.html": "/React-Pokemon-battle/index.html",
+    "main.6c9fb07d.css.map": "/React-Pokemon-battle/static/css/main.6c9fb07d.css.map",
+    "main.087164d5.js.map": "/React-Pokemon-battle/static/js/main.087164d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9fb07d.css",
+    "static/js/main.087164d5.js"
+  ]
+}
